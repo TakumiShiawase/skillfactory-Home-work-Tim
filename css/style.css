@@ -19,7 +19,8 @@ body {
     width: 100%;
     max-width: 1249px;
     min-height: 89px;
-    background-color: #313030;
+    background-color: #000;
+    opacity: 0.8;
 }
 
 .site-menu {
